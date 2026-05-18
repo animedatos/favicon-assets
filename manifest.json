@@ -1,0 +1,41 @@
+{
+ "name": "App",
+ "icons": [
+  {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd42JXdWixk1RKcs2D66lHzAAWzVj7qoFz5ywHdEcR6NcNx7m26F0mmJqGgW4aJZMAOJFwWlXM8f9D2o4Ve0Sh_8EXWNqWQN5RsAtGEjMJnKN0NKMlwwApOc03WJLmkXjylgtz_HYBw2QAQveUeZZbSxq24JTOyJQ7B_qEbR7iqOmaTyuZlzLv6DSiuw/s1600/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image/png",
+   "density": "0.75"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRJiYcucWIWo4eMXhmn2bevCuTHBwcFPxmQHO34-cQ8qt8vtCppRSoIRIuz-sgT4TxAYSNCnFAvNNxEZVm1EaDeCQzxAKfBxlCPi03vf-hVuZvEPtaNAt0FG7oZsmBFdexRLL6hUAdM5cofTnadcvqFb9pMivEubjvOJC5g6UM_hyMzb2zZjDle1gpnw/s1600/android-icon-48x48.png",
+   "sizes": "48x48",
+   "type": "image/png",
+   "density": "1.0"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVTx4aNMHRVQH16B1FswAp0PMjy1I6fuhT5HkcPbzLsqZt6KeQ_ljxnIm9e6fXIyBEIofsVXKzeAONtnfvGDZFdjITx5dDMi-XhnALPt3HJ1vlO9sZtkEp8mrbTDJwJHxasNhLX82tioHEYEsvcV30V92ABusfHmO_XIGWvVgf4SBd6RZgcO0V7a54xw/s1600/android-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image/png",
+   "density": "1.5"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRA2gBKRtQFaAOzWt8TqAF3W4PjH1wr-Nbb6xQ9KZtE5g6gGTw2zDjzNTQwxtL8SR-CspwGf_4GXuTAnLEi_bcxPFsrBbdhCRKEhfDs-p9AYH0xbn_WvNnqJYosZWIg-j1DjnRo1MeCdKHUSp8Uu2preU1o45V-hUjHAGpeLvcU5FJ3u4HFp8wg7YrcQ/s1600/android-icon-96x96.png",
+   "sizes": "96x96",
+   "type": "image/png",
+   "density": "2.0"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLarqkc9mG4Knxa97lCwy5jOpamW9mTjPnMPGtC7HFf8F1agIhyW6w0gljhn8GcQL8TTnDgYpehQu5P6-hj2g58ZQDBJAd954367zUGojbZnhdTGEIT-V__c_6IL6ZSqb1er6WZl5GNShuOklrXSrbxRohfZZdvLS8JvEB7zc2DP4-7UEtrPvxJRhk9w/s1600/android-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image/png",
+   "density": "3.0"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgpBJx5S45WADbEdnOBszRSM6dFPZN92slrw0YfI3lG_GlMDRTZ1RpusyzX1hxq0XZIV1kOlaMZJhosBe5JPlO2ryaJeivOrSmw35Sh5AQsGvNGB2aeTLkV8tGMMVLr5R-4huRl6OK5I_46xy20cqM2Vtamazh0Co2B7F497Eqa5aqOtF4tjobSPUyg/s1600/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "density": "4.0"
+  }
+ ]
+}
