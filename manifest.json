@@ -41,6 +41,11 @@
    "sizes": "192x192",
    "type": "image/png",
    "density": "4.0"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqg5lrJtDHfRIMYB1Uz1G9MeGG3hBejhZkYKV4CPsXJxObd9S7IpstmPkRXCffFf6bB3XYB9JNNCA6GRB5FnTjKv9xmrRPNmySfTwiJTY6oCxOAaucrr9z2StaG9edhMvipsH4fBVFJw2f787YyMWRWifj7v0nBVFolVqxXV7266KlS3MaWqCG2CTpbw/s1600/android-icon-512x512.png",
+   "sizes": "512x512",
+   "type": "image/png"
   }
  ]
 }
