@@ -1,5 +1,10 @@
 {
- "name": "App",
+ "name": "DotaProject",
+ "short_name": "DotaProject",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#ffffff",
  "icons": [
   {
    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd42JXdWixk1RKcs2D66lHzAAWzVj7qoFz5ywHdEcR6NcNx7m26F0mmJqGgW4aJZMAOJFwWlXM8f9D2o4Ve0Sh_8EXWNqWQN5RsAtGEjMJnKN0NKMlwwApOc03WJLmkXjylgtz_HYBw2QAQveUeZZbSxq24JTOyJQ7B_qEbR7iqOmaTyuZlzLv6DSiuw/s1600/android-icon-36x36.png",
